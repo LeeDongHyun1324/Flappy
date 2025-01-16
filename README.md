@@ -48,6 +48,11 @@ FlappyGame은 개인적으로 개발한 Unity 기반의 간단한 2D 게임입�
 4. **게임 오버 화면**:
    - 게임 오버 후 최종 점수와 최고 점수 표시.
    - 다시 시작 버튼 제공.
+     
+---
+
+## 📲 APK 다운로드
+[FlappyGame.apk 다운로드](https://drive.google.com/uc?export=download&id=1-Z_XimT6bLQX4DXu7YEtXvGK7dxSF9Ve)
 
 ---
 
