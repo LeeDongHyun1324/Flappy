@@ -53,6 +53,7 @@ FlappyGame은 개인적으로 개발한 Unity 기반의 간단한 2D 게임입�
 
 ## 📲 APK 다운로드
 [FlappyGame.apk 다운로드](https://drive.google.com/uc?export=download&id=1-Z_XimT6bLQX4DXu7YEtXvGK7dxSF9Ve)
+- 안드로이드에서만 가능
 
 ---
 
